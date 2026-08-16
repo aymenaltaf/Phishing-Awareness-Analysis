@@ -91,6 +91,32 @@ This project analyzes five phishing examples:
 
 **Recommendation:** Verify delivery information through the official courier website or application.
 
+## 📸 Project Screenshots
+
+### 🏠 Project Cover
+
+![Phishing Awareness Analysis](HOME.png)
+
+### 🎣 Case Study 1 — Netflix Phishing
+
+![Netflix Phishing Example](CASE%20STUDY%201.png)
+
+### 🏦 Case Study 2 — Bank Account Phishing
+
+![Bank Phishing Example](CASE%20STUDY%202.png)
+
+### 🎁 Case Study 3 — iPhone Prize Scam
+
+![iPhone Prize Phishing Example](CASE%20STUDY%203.png)
+
+### 🔐 Case Study 4 — Microsoft Password Reset
+
+![Microsoft Password Reset Example](CASE%20STUDY%204.png)
+
+### 📦 Case Study 5 — Package Delivery Phishing
+
+![Package Delivery Phishing Example](CASE%20STUDY%205.png)
+
 ## 🚩 Common Phishing Red Flags
 
 * Unknown sender
