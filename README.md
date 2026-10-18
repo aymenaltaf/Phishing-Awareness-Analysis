@@ -1,14 +1,14 @@
-# 🔐 Phishing Awareness Analysis
+# Phishing Awareness Analysis
 
 A cybersecurity awareness project focused on identifying and analyzing phishing attacks, recognizing common warning signs, understanding associated risks, and promoting safe online practices.
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as **Project 3** for the **DecodeLabs Cyber Security Internship**.
 
 The project analyzes different phishing scenarios and demonstrates how attackers use social engineering techniques such as urgency, fake links, spoofed identities, prize scams, and credential-harvesting attempts to trick users.
 
-## 🎯 Objectives
+## Objectives
 
 * Identify common phishing attempts
 * Detect suspicious links and keywords
@@ -17,7 +17,7 @@ The project analyzes different phishing scenarios and demonstrates how attackers
 * Improve cybersecurity awareness
 * Promote safe online practices
 
-## 🛡️ What is Phishing?
+## What is Phishing?
 
 Phishing is a type of social engineering attack in which attackers use fraudulent emails, messages, or websites to trick users into revealing sensitive information.
 
@@ -30,7 +30,7 @@ Common types covered in this project include:
 * Clone Phishing
 * Business Email Compromise (BEC)
 
-## 🔎 Case Studies
+## Case Studies
 
 This project analyzes five phishing examples:
 
@@ -91,33 +91,33 @@ This project analyzes five phishing examples:
 
 **Recommendation:** Verify delivery information through the official courier website or application.
 
-## 📸 Project Screenshots
+## Project Screenshots
 
-### 🏠 Project Cover
+### Project Cover
 
 ![Phishing Awareness Analysis](HOME.png)
 
-### 🎣 Case Study 1 — Netflix Phishing
+### Case Study 1 — Netflix Phishing
 
 ![Netflix Phishing Example](CASE%20STUDY%201.png)
 
-### 🏦 Case Study 2 — Bank Account Phishing
+### Case Study 2 — Bank Account Phishing
 
 ![Bank Phishing Example](CASE%20STUDY%202.png)
 
-### 🎁 Case Study 3 — iPhone Prize Scam
+### Case Study 3 — iPhone Prize Scam
 
 ![iPhone Prize Phishing Example](CASE%20STUDY%203.png)
 
-### 🔐 Case Study 4 — Microsoft Password Reset
+### Case Study 4 — Microsoft Password Reset
 
 ![Microsoft Password Reset Example](CASE%20STUDY%204.png)
 
-### 📦 Case Study 5 — Package Delivery Phishing
+### Case Study 5 — Package Delivery Phishing
 
 ![Package Delivery Phishing Example](CASE%20STUDY%205.png)
 
-## 🚩 Common Phishing Red Flags
+## Common Phishing Red Flags
 
 * Unknown sender
 * Misspelled domains
@@ -130,7 +130,7 @@ This project analyzes five phishing examples:
 * Too-good-to-be-true offers
 * Unverified contact information
 
-## 🔒 Security Best Practices
+## Security Best Practices
 
 * Enable Multi-Factor Authentication (MFA)
 * Use strong passwords
@@ -140,7 +140,7 @@ This project analyzes five phishing examples:
 * Use antivirus/security software
 * Never share OTPs
 
-## 📂 Project Files
+## Project Files
 
 | File                              | Description                       |
 | --------------------------------- | --------------------------------- |
@@ -152,30 +152,27 @@ This project analyzes five phishing examples:
 | `CASE STUDY 5.png`                | Package-delivery phishing example |
 | `Phishing_Awareness_Analysis.pdf` | Complete project report           |
 
-## 📄 Project Report
+## Project Report
 
 The complete analysis and documentation are available in:
 
 **`Phishing_Awareness_Analysis.pdf`**
 
-## 📚 References
+## References
 
 * DecodeLabs Project 3 Guidelines
 * CISA Phishing Guidance
 * NIST Cybersecurity Awareness Resources
 
-## 💡 Conclusion
+## Conclusion
 
 Phishing attacks often exploit human psychology rather than technical weaknesses. Recognizing warning signs such as fake domains, urgency, suspicious links, and requests for confidential information can help prevent account compromise and data theft.
 
 Security awareness is an important part of protecting users and organizations from phishing attacks.
 
-## 👨‍💻 Author
+## Author
 
 **Aymen Altaf**
-
-Cyber Security Intern
-DecodeLabs
 
 ---
 
